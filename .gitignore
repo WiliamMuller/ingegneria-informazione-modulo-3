@@ -2,3 +2,6 @@
 *.out
 *.csv
 .vscode/
+
+# Used only inside reports
+*plot.svg
