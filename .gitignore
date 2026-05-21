@@ -4,4 +4,4 @@
 .vscode/
 
 # Used only inside reports
-*plot.svg
+*.svg
