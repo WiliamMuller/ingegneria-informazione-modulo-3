@@ -1,6 +1,6 @@
 /*
  * Author:   Wiliam Eduard Muller
- * Exercise: Parte 1 - Fasori e segnali complessi
+ * Exercise: Es3 - Parte 1 - Fasori e segnali complessi
  * Purpose:  Generate N samples of a discrete-time phasor by sampling a
  *           continuous phasor at frequency Fs, save the real and
  *           imaginary parts to a CSV file to later plot

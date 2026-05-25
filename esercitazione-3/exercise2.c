@@ -1,6 +1,6 @@
 /*
  * Author:   Wiliam Eduard Muller
- * Exercise: Parte 2 - Fasori e segnali complessi
+ * Exercise: Es3 - Parte 2 - Fasori e segnali complessi
  * Purpose:  Generate N samples of a sum of two discrete-time phasors, save the
  *           real, imaginary and modulus of each sample to a CSV file to later
  *           plot

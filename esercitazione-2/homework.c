@@ -1,6 +1,6 @@
 /*
  * Author:   Wiliam Eduard Muller
- * Exercise: Homework - Generazione di V.A. continue
+ * Exercise: Es2 - Homework - Generazione di V.A. continue
  * Purpose:  Generate N samples of the specified R.V. (Polynomial Distribution)
  *           and using the Histogram method find the values of the Empirical PDF
  *           to later plot against the Theoretical PDF

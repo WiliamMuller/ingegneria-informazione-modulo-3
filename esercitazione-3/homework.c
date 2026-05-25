@@ -1,6 +1,6 @@
 /*
  * Author:   Wiliam Eduard Muller
- * Exercise: Homework - Fasori e segnali complessi
+ * Exercise: Es3 - Homework - Fasori e segnali complessi
  * Purpose:  Generate N samples of a amplitude-modulated phasor, save the real,
  *           imaginary and modulus of each sample to a CSV file to later plot
  */
