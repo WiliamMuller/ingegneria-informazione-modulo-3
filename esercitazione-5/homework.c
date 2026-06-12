@@ -1,10 +1,11 @@
 /*
  * Author:   Wiliam Eduard Muller
  * Exercise: Es5 - Homework - Trasformata Discreta di Fourier (DFT)
- * Purpose:  Generate N samples of a sinusoidal signal at f0=2015 Hz (not on
- *           the DFT frequency grid), compute its DFT and save the index,
- *           frequency, real part, imaginary part and modulus of each spectral
- *           sample to a CSV file to observe spectral leakage
+ * Purpose:  Read N samples from a WAV file containing a DTMF signal,
+ *           compute its DFT and save the index, frequency, real part,
+ *           imaginary part and modulus of each spectral sample to a CSV file.
+ *           Automatically detect the key pressed from the two dominant
+ *           frequency peaks in the spectrum.
  */
 
 #include <complex.h>
