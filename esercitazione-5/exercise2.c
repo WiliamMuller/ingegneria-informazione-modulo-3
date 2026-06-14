@@ -51,8 +51,3 @@ void dft(const double complex *x, double complex *X, int N) {
         X[k] = s;
     }
 }
-
-// Qunado le frequenze del sengale non coincidono con quelle della DFT sia
-// questo fenomeno, ovvero un po di energia va prima e dopo, interessa tutto lo
-// spettoro, quindi non piu tutti i punto =0 e poi linea, qua si distribuisci un
-// po d'appertutto. fenomeno di distribuzione d'energia su bin vicini

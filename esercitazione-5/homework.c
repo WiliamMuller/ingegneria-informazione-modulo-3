@@ -95,7 +95,7 @@ char detect_key(double complex *X, double Fs, int N) {
                                {'*', '0', '#', 'D'}};
     int row_bins[4], col_bins[4];
 
-    // Transform the frequencys into bins
+    // Calculate the possible bins related to the frequencies
     for (int i = 0; i < 4; i++) {
         row_bins[i] = (int) round(row_freq[i] * N / Fs);
         col_bins[i] = (int) round(col_freq[i] * N / Fs);
